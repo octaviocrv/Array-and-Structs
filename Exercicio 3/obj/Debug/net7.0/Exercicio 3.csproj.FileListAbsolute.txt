@@ -1,0 +1,30 @@
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\bin\Debug\net7.0\Exercicio 3.exe
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\bin\Debug\net7.0\Exercicio 3.deps.json
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\bin\Debug\net7.0\Exercicio 3.runtimeconfig.json
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\bin\Debug\net7.0\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\bin\Debug\net7.0\Exercicio 3.pdb
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.csproj.AssemblyReference.cache
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.AssemblyInfo.cs
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\refint\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.pdb
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\Exercicio 3.genruntimeconfig.cache
+C:\Users\octavio.silva\Desktop\PUC\Exercicio 3\obj\Debug\net7.0\ref\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\bin\Debug\net7.0\Exercicio 3.exe
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\bin\Debug\net7.0\Exercicio 3.deps.json
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\bin\Debug\net7.0\Exercicio 3.runtimeconfig.json
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\bin\Debug\net7.0\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\bin\Debug\net7.0\Exercicio 3.pdb
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.csproj.AssemblyReference.cache
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.AssemblyInfo.cs
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\refint\Exercicio 3.dll
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.pdb
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\Exercicio 3.genruntimeconfig.cache
+C:\Users\octavio.silva\Desktop\PUC\Lista vetor\Exercicio 3\obj\Debug\net7.0\ref\Exercicio 3.dll
